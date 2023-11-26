@@ -1,15 +1,15 @@
 [
   {
-    "id": crypto.randomUUID(),
-    "description": 'Entender o problema do cliente',
+    "id": "1ad36093-8408-4847-883c-8a7ef67211e8",
+    "description": "Entender o problema do cliente",
   },
   {
-    "id": crypto.randomUUID(),
-    "description": 'Desenvolver a solução do problema',
+    "id": "6981251b-3a02-4056-aa2c-06d13da7df05",
+    "description": "Desenvolver a solução do problema",
   },
   {
-    "id": crypto.randomUUID(),
+    "id": "54019a7d-b90a-47c1-ba38-fe83804653d8",
     "description":
-      'Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro',
+      "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
   },
 ]
