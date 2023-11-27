@@ -1,14 +1,11 @@
-[
-    {
-        "id": "1ad36093-8408-4847-883c-8a7ef67211e8",
-        "description": "Entender o problema do cliente"
-    },
-    {
-        "id": "6981251b-3a02-4056-aa2c-06d13da7df05",
-        "description": "Desenvolver a solução do problema"
-    },
-    {
-        "id": "54019a7d-b90a-47c1-ba38-fe83804653d8",
-        "description": "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro"
-    }
-]
+{
+  "success":true,
+  "terms":"https:\/\/currencylayer.com\/terms",
+  "privacy":"https:\/\/currencylayer.com\/privacy",
+  "timestamp":1701100863,
+  "source":"BRL",
+  "quotes":{
+    "BRLUSD":0.203517,
+    "BRLEUR":0.186155
+  }
+}
